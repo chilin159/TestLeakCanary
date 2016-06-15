@@ -3,6 +3,7 @@
     package="com.example.chilin_wang.testleakcanary" >
 
     <application
+        android:name=".TestLeakCanaryApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
